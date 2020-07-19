@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 -->
 
 
-## Job
+## Job 🔭
 
 I'm working as a Software Developer at [EUTEK](http://www.eutek.com.tr)
 
 
-## Using
+## Using 🌱
 
 <code><a href="https://www.microsoft.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></a></code>
 <code><a href="https://www.postgresql.org" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></a></code>
