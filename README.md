@@ -1,6 +1,6 @@
 ### Hi there! Welcome to my profile 👋
 
-I'm Burak. I live in Izmir, Turkey.
+I'm Burak. I live in Turkey.
 
 <!--
 **bozburak/bozburak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
