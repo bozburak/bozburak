@@ -1,6 +1,6 @@
 ### Hi there! Welcome to my profile 👋
 
-I'm Burak. I live in Turkey.
+I'm Burak. I live in Turkey. I like to follow up to date technologies and blog post.
 
 <!--
 **bozburak/bozburak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,12 +23,42 @@ Here are some ideas to get you started:
 I'm working as a Software Developer at [EUTEK](http://www.eutek.com.tr)
 
 
-## Using 🌱
-
-<code><a href="https://www.microsoft.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></a></code>
-<code><a href="https://www.postgresql.org" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></a></code>
-<code><a href="https://code.visualstudio.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code>
-<code><a href="https://code.visualstudio.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
+## Know / Using <g-emoji class="g-emoji" alias="brain" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9e0.png">🧠</g-emoji>
+<p>
+    <a target="_blank" rel="noopener noreferrer" href="https://github.com/github/explore/blob/master/topics/csharp/csharp.png?raw=true">
+        <img src="https://github.com/github/explore/raw/master/topics/csharp/csharp.png?raw=true" height="32" style="max-width: 100%;" />
+    </a>
+    <a target="_blank" rel="noopener noreferrer" href="https://github.com/github/explore/blob/master/topics/dotnet/dotnet.png?raw=true">
+        <img src="https://github.com/github/explore/raw/master/topics/dotnet/dotnet.png?raw=true" height="32" style="max-width: 100%;" />
+    </a>
+    <a target="_blank" rel="noopener noreferrer" href="https://github.com/github/explore/blob/master/topics/visual-studio-code/visual-studio-code.png?raw=true">
+        <img src="https://github.com/github/explore/raw/master/topics/visual-studio-code/visual-studio-code.png?raw=true" height="32" style="max-width: 100%;" />
+    </a>
+    <a target="_blank" rel="noopener noreferrer" href="https://github.com/github/explore/blob/master/topics/html/html.png?raw=true">
+        <img src="https://github.com/github/explore/blob/master/topics/html/html.png?raw=true" height="32" style="max-width: 100%;" />
+    </a>
+    <a target="_blank" rel="noopener noreferrer" href="https://github.com/github/explore/blob/master/topics/css/css.png?raw=true">
+        <img src="https://github.com/github/explore/raw/master/topics/css/css.png?raw=true" height="32" style="max-width: 100%;" />
+    </a>
+    <a target="_blank" rel="noopener noreferrer" href="https://github.com/github/explore/blob/master/topics/javascript/javascript.png?raw=true">
+        <img src="https://github.com/github/explore/blob/master/topics/javascript/javascript.png?raw=true" height="32" style="max-width: 100%;" />
+    </a>
+    <a target="_blank" rel="noopener noreferrer" href="https://github.com/github/explore/blob/master/topics/bootstrap/bootstrap.png?raw=true">
+        <img src="https://github.com/github/explore/raw/master/topics/bootstrap/bootstrap.png?raw=true" height="32" style="max-width: 100%;" />
+    </a>
+    <a target="_blank" rel="noopener noreferrer" href="https://github.com/github/explore/blob/master/topics/jquery/jquery.png?raw=true">
+        <img src="https://github.com/github/explore/blob/master/topics/jquery/jquery.png?raw=true" height="32" style="max-width: 100%;" />
+    </a>
+    <a target="_blank" rel="noopener noreferrer" href="https://github.com/github/explore/blob/master/topics/github/github.png?raw=true">
+        <img src="https://github.com/github/explore/raw/master/topics/github/github.png?raw=true" height="32" style="max-width: 100%;" />
+    </a>
+    <a target="_blank" rel="noopener noreferrer" href="https://github.com/github/explore/blob/master/topics/nuget/nuget.png?raw=true">
+        <img src="https://github.com/github/explore/raw/master/topics/nuget/nuget.png?raw=true" height="32" style="max-width: 100%;" />
+    </a>
+    <a target="_blank" rel="noopener noreferrer" href="https://github.com/github/explore/blob/master/topics/sass/sass.png?raw=true">
+        <img src="https://github.com/github/explore/raw/master/topics/sass/sass.png?raw=true" height="32" style="max-width: 100%;" />
+    </a>
+</p>
 
 
 ## Contact Me 📫
