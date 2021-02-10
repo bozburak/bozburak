@@ -64,6 +64,9 @@ I'm working as a Software Developer at [EUTEK](http://www.eutek.com.tr)
     <a target="_blank" rel="noopener noreferrer" href="https://github.com/github/explore/blob/master/topics/sql-server/sql-server.png?raw=true">
         <img src="https://github.com/github/explore/blob/master/topics/sql-server/sql-server.png?raw=true" height="32" style="max-width: 100%;" />
     </a>
+    <a target="_blank" rel="noopener noreferrer" href="https://github.com/github/explore/blob/master/topics/angular/angular.png?raw=true">
+        <img src="https://github.com/github/explore/blob/master/topics/angular/angular.png?raw=true" height="32" style="max-width: 100%;" />
+    </a>
 </p>
 
 
